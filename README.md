@@ -8,3 +8,6 @@ Pelo VsCode instale essa extensão abaixo:
 
 ![image](https://user-images.githubusercontent.com/73043181/196569312-4a65eab8-5fbc-4cf9-8828-b46992f1c356.png)
 
+ <br>
+ 
+Entre no arquivo main.lua e utilize o comando alt + L para iniciar o jogo :)
