@@ -1,13 +1,20 @@
-# game-Pong-2d
-Game 2d criado para estudo dos elementos da biblioteca Love2d e linguagens como C++ e .lua
+# Pong - 2D Game <br>
+## Play the game <br>
+ Download and play the game, check my website: Cooming soon!
 
-#How run it ? <br>
-Pelo VsCode instale essa extensão abaixo:
-![image](https://user-images.githubusercontent.com/73043181/196569111-039a1ebf-f3cc-409d-af42-076b2e58ff3a.png)
+## How run the project - Windows <br>
+ You'll need to run:<br>
+   Love3d - https://love2d.org/<br>
+   Editor recommended:  Visual Studio Code<br><br>
+
+In VsCode install Love2d Support :<br>
+![image](https://user-images.githubusercontent.com/73043181/196569111-039a1ebf-f3cc-409d-af42-076b2e58ff3a.png)<br>
+
+Make sure where is your path of love3D installed:<br>
 ![image](https://user-images.githubusercontent.com/73043181/196569389-5833dd63-fe18-479c-9374-a0c84e0338cd.png)
 
 ![image](https://user-images.githubusercontent.com/73043181/196569312-4a65eab8-5fbc-4cf9-8828-b46992f1c356.png)
 
  <br>
  
-Entre no arquivo main.lua e utilize o comando alt + L para iniciar o jogo :)
+Now in Visual Studio Code use this command to run: ALT + L
